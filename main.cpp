@@ -1,4 +1,4 @@
-#include <Amin>
+#include <iostream>
 
 using namespace std;
 
