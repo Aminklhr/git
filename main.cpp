@@ -19,8 +19,8 @@ int main()
     i = 1 ;
     while(number>0)
     {
-        number1 = number % 72 ;
-        number = number / 72 ;
+        number1 = number % 7 ;
+        number = number / 7 ;
         sum = number1 * i + sum ;
         i = i * 10 ;
 
